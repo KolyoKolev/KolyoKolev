@@ -16,4 +16,4 @@ From manual testing to writing automation - this is what I enjoy doing, because 
 <hr>
 
 ## Github stats
-[![Kolyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KolyoKolev&theme=algolia&show_icons=true)]
+[![Kolyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KolyoKolev&theme=algolia&show_icons=true&include_all_commits=true&count_private=true)]
