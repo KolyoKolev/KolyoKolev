@@ -11,7 +11,7 @@ From manual testing to writing automation - this is what I enjoy doing, because 
 <hr>
 <p> 🏗️ Currently my focus is on building test automation projects using different languages and frameworks e.g. JS + Cypress, Java + Selenium.</p>
 <p> 📚✍️ I love both reading and writing and could not tell which more.</p>
-<p> 👨‍👧 The biggest and the most important project in which I have been involved (and will be until the end) is to be a parentship project 😊.
+<p> 👨‍👧 The biggest and the most important project in which I have been involved (and will be until the end) is the parentship project 😊.
   I'm a father of a wonderful girl. </p>
 <hr>
 
