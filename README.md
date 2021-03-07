@@ -1,7 +1,7 @@
 <h1 align='center'> Hello, awesome people 👋</h1>
 <br />
 
-<p> 📛 My name is Kolyo and I am an automation QA Software Engineer</p>
+<p> 📛 My name is Kolyo and I am an automation QA Software Engineer and a father</p>
 <p> 🔴🟡🟢 QA stands for Quality Assurance.
 Quality means the degree of perfection/excellence of something.
 That something could be anything from a whole process to a single indivisible step/unit/spec.
