@@ -1,15 +1,9 @@
 <h1 align='center'> Hello, awesome people 👋</h1>
 <br />
 
-<p> 📛 My name is Kolyo and I am an automation QA Software Engineer and a father</p>
+<p> 📛 My name is Kolyo, an automation QA Software Engineer and a father</p>
 <p> 🔴🟡🟢 QA stands for Quality Assurance.
-Quality means the degree of perfection/excellence of something.
-That something could be anything from a whole process to a single indivisible step/unit/spec.
-Assurance means promise given with full confidence and responsibility.
-As a professional, I assure software quality.
-From manual testing to writing automation - this is what I enjoy doing, because it is challenging and fun at the same time.</p>
-<hr>
-<p> 🏗️ Currently my focus is on building test automation projects using different languages and frameworks e.g. JS + Cypress, Java + Selenium.</p>
+<p> 🏗️ Currently my focus is on building test automation projects using JS + Cypress</p>
 <p> 📚✍️ I love both reading and writing and could not tell which more.</p>
 <p> 👨‍👧 The biggest and the most important project in which I have been involved (and will be until the end) is the parentship project 😊.
   I'm a father of a wonderful girl. </p>
