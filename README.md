@@ -1,4 +1,4 @@
-<h1 align='center'> Hello, awesome people 👋</h1>
+<h1 align='center'> Hello there 👋</h1>
 <br />
 
 <p> 📛 My name is Kolyo, an automation QA Software Engineer and a father</p>
