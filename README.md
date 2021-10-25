@@ -1,12 +1,11 @@
 <h1 align='center'> Hello there 👋</h1>
 <br />
 
-<p> 📛 My name is Kolyo, an automation QA Software Engineer and a father</p>
+<p> 📛 My name is Kolyo, an Automation QA Software Engineer</p>
 <p> 🔴🟡🟢 QA stands for Quality Assurance.
-<p> 🏗️ Currently my focus is on building test automation projects using JS + Cypress</p>
+<p> 🏗️ Currently my focus is on building test automation projects using both JS + Cypress and Java + Selenium.</p>
 <p> 📚✍️ I love both reading and writing and could not tell which more.</p>
-<p> 👨‍👧 The biggest and the most important project in which I have been involved (and will be until the end) is the parentship project 😊.
-  I'm a father of a wonderful girl. </p>
+<p> 👨‍👧 The biggest and most challenging project I participate in is to be a father. </p>
 <hr>
 
 ## Github stats
